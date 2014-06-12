@@ -2,7 +2,11 @@
 <resources>
 	<!-- English Strings -->
     <string name="app_name">My Application</string>
+    
+    <!-- Hello World message -->
     <string name="hello_world">Hello world!</string>
+    
+    <!-- Settings message -->
     <string name="action_settings">Settings</string>
 
 </resources>
